@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.classpath
+*.prefs
+Arrays_and_Strings_01_01.class
+*.class
+.project
